@@ -1,2 +1,2 @@
-# Desafio02-Daniel
- Segundo desafio de Daniel
+# Projeto - Desafio Daniel
+ Projeto em continuidade relacionado aos desafios passados por Daniel
