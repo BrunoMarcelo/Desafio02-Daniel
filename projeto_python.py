@@ -113,6 +113,7 @@ while True:
     elif num < 1 or num > 25:
         print('O número digitado não é válido, por favor digite um número correspondente ao item que deseja: ')
         print('')
+
     #Verifica se o cliente é menor de idade e escolheu um produto +18
     elif idade <18 and num > 20:
         print('Produto não disponível, cliente menor de idade!')
